@@ -35,6 +35,15 @@ python main.py
 
 ## 📺 Output
 
+<h3> Text Editor App </h3>
+
+![image](https://github.com/user-attachments/assets/5aec1455-8d8d-4da7-8c1a-b96bbdaa933f)
+
+<h3> All Functions </h3>
+
+![image](https://github.com/user-attachments/assets/cafb1d8a-de06-4cdc-982a-fe9c55ee32df)
+
+
 ## 📜 Conclusion
 This text editor allows users to perform various text editing tasks efficiently and intuitively. 
 With features like formatting and alignment, it serves as a handy tool for anyone needing basic text editing capabilities.
