@@ -48,7 +48,5 @@ python main.py
 This text editor allows users to perform various text editing tasks efficiently and intuitively. 
 With features like formatting and alignment, it serves as a handy tool for anyone needing basic text editing capabilities.
 
-<br>
-
 ## 🤖 Author
 [Atharva Baikar](https://github.com/DarkGuardian641)
